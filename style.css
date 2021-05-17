@@ -1,0 +1,39 @@
+.pic{
+    height: 500px;
+    padding-top: 50px;
+}
+
+body{
+    text-align: center;
+    background-image: url("https://media.giphy.com/media/KdC9XVrVYOVu6zZiMH/giphy.gif");
+}
+
+h4{
+    padding: 40px;
+    color: rgb(13, 13, 17);
+}
+
+#b{
+    color: rgb(245, 227, 227);
+}
+
+.box{
+        position: fixed;
+        color: rgb(15, 17, 17);
+        background-color: rgb(253, 253, 253);
+        bottom: 0;
+        width: 100%;
+        line-height: 3;
+        text-align: center;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: rgb(253, 253, 253);
+    border-radius: 20px;
+    padding: 7px;
+    box-shadow: 10px 10px 20px rgb(233, 95, 95);
+    width: 500px;
+}
